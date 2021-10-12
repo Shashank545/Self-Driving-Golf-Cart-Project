@@ -172,7 +172,7 @@ numpy == 1.14.2
 # steering/visualization/dataset_visualizer.py: 10
 # steering/visualization/testing_visualizer.py: 10
 # steering/visualization/visualization.py: 17
-opencv_python == 3.4.0.12
+opencv_python == 4.2.0.32
 
 # cruise/train.py: 6
 # cruise/utils.py: 5
