@@ -132,7 +132,7 @@ matplotlib == 2.2.2
 # steering/visualization/dataset_visualizer.py: 9
 # steering/visualization/testing_visualizer.py: 9
 # steering/visualization/visualization.py: 7
-numpy == 1.14.2
+numpy == 1.22.0
 
 # cruise/cruise_predictor.py: 8
 # cruise/utils.py: 1
