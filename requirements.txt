@@ -237,7 +237,7 @@ scipy == 1.0.1
 # steering/autumn.py: 11,16
 # steering/komanda.py: 16
 # steering/models.py: 11
-tensorflow == 1.7.0
+tensorflow == 2.9.3
 
 # driver.py: 34
 # helper.py: 1
